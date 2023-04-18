@@ -1,4 +1,6 @@
-FROM nginx:mainline-alpine-slim
+
+FROMFROMFROM
+FROMFROMFROMFROMFROMFROMFROMFROM nginx:mainline-alpine-slim
 MAINTAINER ifeng <https://t.me/HiaiFeng>
 EXPOSE 80
 USER root
